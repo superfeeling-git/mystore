@@ -1,0 +1,17 @@
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Repository.deps.json
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Repository.dll
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\ref\MyStore.Repository.dll
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Repository.pdb
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Dto.dll
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Entity.dll
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Dto.pdb
+E:\Tech\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Entity.pdb
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.csproj.AssemblyReference.cache
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.AssemblyInfoInputs.cache
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.AssemblyInfo.cs
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.csproj.CoreCompileInputs.cache
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.csproj.CopyComplete
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.dll
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\ref\MyStore.Repository.dll
+E:\Tech\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.pdb

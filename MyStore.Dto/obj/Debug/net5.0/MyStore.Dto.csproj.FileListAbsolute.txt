@@ -1,0 +1,12 @@
+E:\Tech\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\MyStore.Dto.deps.json
+E:\Tech\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\MyStore.Dto.dll
+E:\Tech\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\ref\MyStore.Dto.dll
+E:\Tech\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\MyStore.Dto.pdb
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.csproj.AssemblyReference.cache
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.AssemblyInfoInputs.cache
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.AssemblyInfo.cs
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.csproj.CoreCompileInputs.cache
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.dll
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\ref\MyStore.Dto.dll
+E:\Tech\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.pdb
