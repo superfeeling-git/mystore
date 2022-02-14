@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "npBusHRb1AcjXlYLEu3YwK0lc4AGKenfnRI5RKV6D0Pr9xQI7HcDpb4WRJDNt+ee28ppq7aQbUwLy8hgXltIqA==",
+  "dgSpecHash": "mi/KUGsfjmoMZwCWamTCLxeBm+h2xaAny4a5Xf/wVtnhJLoiGVLeSnwVUjXHpOD9wKnG66PRtSK8B8rJqYV/eg==",
   "success": true,
-  "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\mystore.webapi\\MyStore.WebApi.csproj",
+  "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\MyStore.WebApi\\MyStore.WebApi.csproj",
   "expectedPackageFiles": [
     "D:\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
