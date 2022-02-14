@@ -4,7 +4,6 @@ E:\Tech\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\MyStore.Entity.runtimeco
 E:\Tech\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\MyStore.Entity.dll
 E:\Tech\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\ref\MyStore.Entity.dll
 E:\Tech\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\MyStore.Entity.pdb
-E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.csproj.AssemblyReference.cache
 E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.GeneratedMSBuildEditorConfig.editorconfig
 E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.AssemblyInfoInputs.cache
 E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.AssemblyInfo.cs
@@ -13,3 +12,4 @@ E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.dll
 E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\ref\MyStore.Entity.dll
 E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.pdb
 E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.genruntimeconfig.cache
+E:\Tech\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.csproj.AssemblyReference.cache

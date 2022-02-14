@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bgY2TymxAkpdU69MnSwkp0sIgA9zXCky1EObS7fZZS/JiakTCq3Ssf50r3d+U8yEob0Zp2C3Bv+kxJGlPFjGbw==",
+  "dgSpecHash": "WBY2uthdEYELSVhPhwNOV34vXmcRT52+Ae++plIVMV0O909kGZH6H2U8L/o4dqlXBRcoW+911Ohj0+lu+NIauw==",
   "success": true,
   "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj",
   "expectedPackageFiles": [
+    "D:\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
@@ -89,6 +91,7 @@
     "D:\\Administrator\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "D:\\Administrator\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

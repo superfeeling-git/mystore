@@ -12,6 +12,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MyStore.Entity;
+using MyStore.Repository;
+using MyStore.Service;
 
 namespace MyStore.WebApi
 {
@@ -35,6 +37,28 @@ namespace MyStore.WebApi
                 action.UseSqlServer(Configuration.GetConnectionString("SqlServer"));
             });
 
+            //¿çÓò
+            services.AddCors(action => {
+                action.AddDefaultPolicy(config => {
+                    config.WithOrigins("http://localhost:8080")
+                    .AllowAnyHeader()
+                    .AllowAnyMethod()
+                    .AllowCredentials();
+                });
+            });
+
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IBrandRepository, BrandRepository>();
+            services.AddScoped<IPriceRangeRepository, PriceRangeRepository>();
+            services.AddScoped<IGoodsRepository, GoodsRepository>();
+
+            services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IBrandService, BrandService>();
+            services.AddScoped<IPriceRangeService, PriceRangeService>();
+            services.AddScoped<IGoodsService, GoodsService>();
+
+            services.AddHttpContextAccessor();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "MyStore.WebApi", Version = "v1" });
@@ -50,6 +74,9 @@ namespace MyStore.WebApi
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "MyStore.WebApi v1"));
             }
+
+            //¿çÓòÖÐ¼ä¼þ
+            app.UseCors();
 
             app.UseRouting();
 
