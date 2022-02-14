@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj": {}
+    "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj": {}
   },
   "projects": {
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
+    "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
+        "projectUniqueName": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj",
         "projectName": "MyStore.Dto",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
+        "projectPath": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj",
         "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\obj\\",
+        "outputPath": "I:\\mystore\\MyStore.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
+    "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
+        "projectUniqueName": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj",
         "projectName": "MyStore.Entity",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
+        "projectPath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj",
         "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\obj\\",
+        "outputPath": "I:\\mystore\\MyStore.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj": {
+    "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
+        "projectUniqueName": "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj",
         "projectName": "MyStore.Repository",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
+        "projectPath": "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj",
         "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\obj\\",
+        "outputPath": "I:\\mystore\\MyStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -169,11 +169,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
+              "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj": {
+                "projectPath": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj"
               },
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj"
+              "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj": {
+                "projectPath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj"
               }
             }
           }
@@ -187,6 +187,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "CSRedisCore": {
+              "target": "Package",
+              "version": "[3.6.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

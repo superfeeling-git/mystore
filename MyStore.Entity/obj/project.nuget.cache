@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ECL5L49+fHYHMRT8ewm3DaVXP6ogX+gHTXCg+bbmGxFD35kgnRB4DlMfIzXpn75HLz16+6bS4PAUfBSi8XyjA==",
+  "dgSpecHash": "fdqqNJVOl2uuwLxqxl+ggcAVBjA0HqgLo3eNu68hfMr+45880ikKmlMQ0HyFUvxaIJzQ3MRhhV/4IThpy5RYog==",
   "success": true,
-  "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
+  "projectFilePath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj",
   "expectedPackageFiles": [
     "D:\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "D:\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
