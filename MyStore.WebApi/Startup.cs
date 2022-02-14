@@ -14,6 +14,7 @@ using Microsoft.EntityFrameworkCore;
 using MyStore.Entity;
 using MyStore.Repository;
 using MyStore.Service;
+using CSRedis;
 
 namespace MyStore.WebApi
 {
@@ -47,6 +48,9 @@ namespace MyStore.WebApi
                 });
             });
 
+            var RedisClient = new RedisClient("localhost", 6379);
+            services.AddSingleton(RedisClient);
+
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IBrandRepository, BrandRepository>();
             services.AddScoped<IPriceRangeRepository, PriceRangeRepository>();
@@ -56,6 +60,8 @@ namespace MyStore.WebApi
             services.AddScoped<IBrandService, BrandService>();
             services.AddScoped<IPriceRangeService, PriceRangeService>();
             services.AddScoped<IGoodsService, GoodsService>();
+            services.AddScoped<ICarRepository, CarRepository>();
+            services.AddScoped<ICarService, CarService>();
 
             services.AddHttpContextAccessor();
 
