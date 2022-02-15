@@ -2,6 +2,9 @@
 {
     public interface ICarRepository
     {
-        void AddCar(string key, object value);
+        void SetValue(string key, object value);
+        string[] GetKeys(string pattern);
+        string GetValue(string key);
+        long Del(string key);
     }
 }

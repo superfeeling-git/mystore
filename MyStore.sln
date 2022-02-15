@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31424.327
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Entity", "MyStore.Entity\MyStore.Entity.csproj", "{EE70FA78-C71C-4822-818B-1A2AE124030C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStore.Entity", "MyStore.Entity\MyStore.Entity.csproj", "{EE70FA78-C71C-4822-818B-1A2AE124030C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Repository", "MyStore.Repository\MyStore.Repository.csproj", "{5964358C-0564-4CDA-99DD-2C78EF50CF16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStore.Repository", "MyStore.Repository\MyStore.Repository.csproj", "{5964358C-0564-4CDA-99DD-2C78EF50CF16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Service", "MyStore.Service\MyStore.Service.csproj", "{08A85287-E7F5-48E6-9C5B-4BEFA81DE000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStore.Service", "MyStore.Service\MyStore.Service.csproj", "{08A85287-E7F5-48E6-9C5B-4BEFA81DE000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Dto", "MyStore.Dto\MyStore.Dto.csproj", "{58E95EC8-8C08-4687-B4B3-45C61286A9B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStore.Dto", "MyStore.Dto\MyStore.Dto.csproj", "{58E95EC8-8C08-4687-B4B3-45C61286A9B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.WebApi", "MyStore.WebApi\MyStore.WebApi.csproj", "{CDB30EB0-87E8-4A3A-B714-3D14CD36410C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyStore.WebApi", "MyStore.WebApi\MyStore.WebApi.csproj", "{CDB30EB0-87E8-4A3A-B714-3D14CD36410C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStore.Test", "MyStore.Test\MyStore.Test.csproj", "{89001E64-B168-4210-A8B4-4AE547C901F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CDB30EB0-87E8-4A3A-B714-3D14CD36410C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDB30EB0-87E8-4A3A-B714-3D14CD36410C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDB30EB0-87E8-4A3A-B714-3D14CD36410C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89001E64-B168-4210-A8B4-4AE547C901F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89001E64-B168-4210-A8B4-4AE547C901F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89001E64-B168-4210-A8B4-4AE547C901F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89001E64-B168-4210-A8B4-4AE547C901F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

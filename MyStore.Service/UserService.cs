@@ -44,5 +44,11 @@ namespace MyStore.Service
                 }
             }
         }
+
+        public User LoginInfo()
+        {
+            var username = httpContext.HttpContext.Request.Cookies["UserName"];
+            return UserRepository.GetEntity(username);
+        }
     }
 }

@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj": {}
+    "E:\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj": {}
   },
   "projects": {
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
+    "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
+        "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
         "projectName": "MyStore.Dto",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
-        "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\obj\\",
+        "projectPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -61,26 +58,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
+    "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
+        "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
         "projectName": "MyStore.Entity",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
-        "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\obj\\",
+        "projectPath": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\MyStore\\MyStore\\MyStore.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -89,8 +84,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -134,26 +128,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj": {
+    "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
+        "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
         "projectName": "MyStore.Repository",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
-        "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\obj\\",
+        "projectPath": "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\MyStore\\MyStore\\MyStore.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -162,18 +154,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
+              "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
+                "projectPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
               },
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj"
+              "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
+                "projectPath": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj"
               }
             }
           }
@@ -208,26 +199,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Tech\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj": {
+    "E:\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tech\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj",
+        "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj",
         "projectName": "MyStore.Service",
-        "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj",
-        "packagesPath": "D:\\Administrator\\.nuget\\packages",
-        "outputPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Service\\obj\\",
+        "projectPath": "E:\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\MyStore\\MyStore\\MyStore.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.2.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -236,21 +225,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
+              "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
+                "projectPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
               },
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj"
+              "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
+                "projectPath": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj"
               },
-              "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj": {
-                "projectPath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj"
+              "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj": {
+                "projectPath": "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj"
               }
             }
           }
@@ -285,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

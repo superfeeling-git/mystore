@@ -54,5 +54,15 @@ namespace MyStore.Repository
         {
             return (goods.Count(), goods.Skip((PageIndex - 1) * PageSize).Take(PageSize).ToList());
         }
+
+        /// <summary>
+        /// 根据ID获取实体
+        /// </summary>
+        /// <param name="Id"></param>
+        /// <returns></returns>
+        public Goods GetEntity(int Id)
+        {
+            return db.Goods.FirstOrDefault(m => m.GoodsId == Id);
+        }
     }
 }

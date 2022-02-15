@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5964358c-0564-4cda-99dd-2c78ef50cf16": {
+      "ProjectGuid": "5964358c-0564-4cda-99dd-2c78ef50cf16",
+      "DisplayName": "MyStore.Repository",
+      "ColorIndex": 0
+    },
+    "cdb30eb0-87e8-4a3a-b714-3d14cd36410c": {
+      "ProjectGuid": "cdb30eb0-87e8-4a3a-b714-3d14cd36410c",
+      "DisplayName": "MyStore.WebApi",
+      "ColorIndex": 1
+    },
+    "08a85287-e7f5-48e6-9c5b-4befa81de000": {
+      "ProjectGuid": "08a85287-e7f5-48e6-9c5b-4befa81de000",
+      "DisplayName": "MyStore.Service",
+      "ColorIndex": 2
+    },
+    "58e95ec8-8c08-4687-b4b3-45c61286a9b1": {
+      "ProjectGuid": "58e95ec8-8c08-4687-b4b3-45c61286a9b1",
+      "DisplayName": "MyStore.Dto",
+      "ColorIndex": 3
+    },
+    "ee70fa78-c71c-4822-818b-1a2ae124030c": {
+      "ProjectGuid": "ee70fa78-c71c-4822-818b-1a2ae124030c",
+      "DisplayName": "MyStore.Entity",
+      "ColorIndex": 4
+    },
+    "89001e64-b168-4210-a8b4-4ae547c901f0": {
+      "ProjectGuid": "89001e64-b168-4210-a8b4-4ae547c901f0",
+      "DisplayName": "MyStore.Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

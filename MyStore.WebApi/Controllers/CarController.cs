@@ -30,5 +30,33 @@ namespace MyStore.WebApi.Controllers
             return Ok();
         }
 
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        [HttpPost]
+        public IActionResult UpdateCar(Car car)
+        {
+            carService.UpdateCar(car);
+            return Ok();
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public IActionResult DelCar(int id)
+        {
+            carService.DelCar(new Car { GoodsId = id });
+            return Ok();
+        }
+
+        [HttpGet]
+        public IActionResult GetCar()
+        {
+            return new JsonResult(carService.GetCar());
+        }
     }
 }

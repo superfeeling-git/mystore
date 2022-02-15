@@ -1,0 +1,16 @@
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\MyStore.Test.exe
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\MyStore.Test.deps.json
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\MyStore.Test.runtimeconfig.json
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\MyStore.Test.runtimeconfig.dev.json
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\MyStore.Test.dll
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\ref\MyStore.Test.dll
+E:\MyStore\MyStore\MyStore.Test\bin\Debug\net5.0\MyStore.Test.pdb
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.csproj.AssemblyReference.cache
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.AssemblyInfoInputs.cache
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.AssemblyInfo.cs
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.csproj.CoreCompileInputs.cache
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.dll
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\ref\MyStore.Test.dll
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.pdb
+E:\MyStore\MyStore\MyStore.Test\obj\Debug\net5.0\MyStore.Test.genruntimeconfig.cache
