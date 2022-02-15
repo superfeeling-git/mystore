@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "YtkyYK5MhqjOfF1nCrV218+rhZoZxVOzlyx5n5d0gsW1YuOsR2LjnbLn0seqca0AMb4z9nRMsBjML64xgouNrQ==",
+  "dgSpecHash": "TU9Kz9+THRmUNDnm0r2ULauE3tdSkN8jmIWaMgvSmYnl5fh5SUTQnacvmJFColSPMOuDmGz17n7dDEAwm719rA==",
   "success": true,
-  "projectFilePath": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
-=======
-  "dgSpecHash": "fdqqNJVOl2uuwLxqxl+ggcAVBjA0HqgLo3eNu68hfMr+45880ikKmlMQ0HyFUvxaIJzQ3MRhhV/4IThpy5RYog==",
-  "success": true,
-  "projectFilePath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj",
->>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
+  "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -108,5 +102,12 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "读取缓存文件 E:\\Tech\\MyStore\\MyStore\\MyStore.Entity\\obj\\project.nuget.cache 时遇到问题: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

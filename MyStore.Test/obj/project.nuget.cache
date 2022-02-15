@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5XXd78Msj2HeseCpABOz1VIIsijeuY23HLfEQJGCS1tCBkqjjtdLlJNyep4gosRF3ls+u2XoM9zKzJgGfJpVtw==",
+  "dgSpecHash": "IghdJsUb7jtvpwnlpvsKM+YM0HN4I37jOb7TdFzHTUKIK17VrqktchFiZAVuxEeidlxR1KuK3s8XB8YBHnTb1A==",
   "success": true,
-  "projectFilePath": "E:\\MyStore\\MyStore\\MyStore.Test\\MyStore.Test.csproj",
+  "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Test\\MyStore.Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

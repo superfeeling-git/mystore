@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "x/3H315t2x4Kpiq1SV8RnapQrG50Z/MCV3ONL6Ry1Qo/xn+QR9xs6p8BaxapNH3fbMnEu1/pfZRfJJiAd60i8g==",
+  "dgSpecHash": "FNXDbT4sMbD1xOqHYIv5wtetZMEgEIfhf++DQg3nlvCpkdz00IeW4X+T/eC516w/PSKCfb+e2lpft1tYAR4IjQ==",
   "success": true,
-  "projectFilePath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
-=======
-  "dgSpecHash": "mizygDwQnZJqKFs80H1qVR0rZVQ/A5kY9ZsQxH9eAT5icxtm3EvOSiWZodhoxPF7FDb5qR9wPjfIDRpSaOqq5g==",
-  "success": true,
-  "projectFilePath": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj",
->>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
+  "projectFilePath": "E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "读取缓存文件 E:\\Tech\\MyStore\\MyStore\\MyStore.Dto\\obj\\project.nuget.cache 时遇到问题: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
