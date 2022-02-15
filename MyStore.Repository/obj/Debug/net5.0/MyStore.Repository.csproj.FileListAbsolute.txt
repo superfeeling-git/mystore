@@ -32,6 +32,7 @@ I:\mystore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.csproj.CopyCom
 I:\mystore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.dll
 I:\mystore\MyStore.Repository\obj\Debug\net5.0\ref\MyStore.Repository.dll
 I:\mystore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.pdb
+<<<<<<< HEAD
 E:\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Repository.deps.json
 E:\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\MyStore.Repository.dll
 E:\MyStore\MyStore\MyStore.Repository\bin\Debug\net5.0\ref\MyStore.Repository.dll
@@ -49,3 +50,5 @@ E:\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.csproj
 E:\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.dll
 E:\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\ref\MyStore.Repository.dll
 E:\MyStore\MyStore\MyStore.Repository\obj\Debug\net5.0\MyStore.Repository.pdb
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add

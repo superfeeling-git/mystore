@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
       "projectName": "MyStore.Dto",
       "projectPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\obj\\",
+=======
+      "projectUniqueName": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj",
+      "projectName": "MyStore.Dto",
+      "projectPath": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj",
+      "packagesPath": "D:\\Administrator\\.nuget\\packages",
+      "outputPath": "I:\\mystore\\MyStore.Dto\\obj\\",
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

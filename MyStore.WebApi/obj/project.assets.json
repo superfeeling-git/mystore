@@ -5827,11 +5827,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.WebApi\\MyStore.WebApi.csproj",
       "projectName": "MyStore.WebApi",
       "projectPath": "E:\\MyStore\\MyStore\\MyStore.WebApi\\MyStore.WebApi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "E:\\MyStore\\MyStore\\MyStore.WebApi\\obj\\",
+=======
+      "projectUniqueName": "I:\\mystore\\MyStore.WebApi\\MyStore.WebApi.csproj",
+      "projectName": "MyStore.WebApi",
+      "projectPath": "I:\\mystore\\MyStore.WebApi\\MyStore.WebApi.csproj",
+      "packagesPath": "D:\\Administrator\\.nuget\\packages",
+      "outputPath": "I:\\mystore\\MyStore.WebApi\\obj\\",
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5852,6 +5860,7 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< HEAD
             "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
               "projectPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
             },
@@ -5863,6 +5872,19 @@
             },
             "E:\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj": {
               "projectPath": "E:\\MyStore\\MyStore\\MyStore.Service\\MyStore.Service.csproj"
+=======
+            "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj": {
+              "projectPath": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj"
+            },
+            "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj": {
+              "projectPath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj"
+            },
+            "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj": {
+              "projectPath": "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj"
+            },
+            "I:\\mystore\\MyStore.Service\\MyStore.Service.csproj": {
+              "projectPath": "I:\\mystore\\MyStore.Service\\MyStore.Service.csproj"
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
             }
           }
         }

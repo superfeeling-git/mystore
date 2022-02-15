@@ -28,6 +28,7 @@ I:\mystore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.dll
 I:\mystore\MyStore.Entity\obj\Debug\net5.0\ref\MyStore.Entity.dll
 I:\mystore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.pdb
 I:\mystore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.genruntimeconfig.cache
+<<<<<<< HEAD
 E:\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\MyStore.Entity.deps.json
 E:\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\MyStore.Entity.runtimeconfig.json
 E:\MyStore\MyStore\MyStore.Entity\bin\Debug\net5.0\MyStore.Entity.runtimeconfig.dev.json
@@ -43,3 +44,5 @@ E:\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.dll
 E:\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\ref\MyStore.Entity.dll
 E:\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.pdb
 E:\MyStore\MyStore\MyStore.Entity\obj\Debug\net5.0\MyStore.Entity.genruntimeconfig.cache
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add

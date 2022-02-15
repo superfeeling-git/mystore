@@ -16,11 +16,16 @@ namespace MyStore.Repository
             this.RedisClient = RedisClient;
         }
 
+<<<<<<< HEAD
         public void SetValue(string key, object value)
+=======
+        public void AddCar(string key, object value)
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
         {
             RedisClient.Set(key, value);
         }
 
+<<<<<<< HEAD
         public string[] GetKeys(string pattern)
         {
             return RedisClient.Keys(pattern);
@@ -35,5 +40,8 @@ namespace MyStore.Repository
         {
             return RedisClient.Del(key);
         }
+=======
+
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
     }
 }

@@ -133,6 +133,7 @@ I:\mystore\mystore.webapi\obj\Debug\net5.0\ref\MyStore.WebApi.dll
 I:\mystore\mystore.webapi\obj\Debug\net5.0\MyStore.WebApi.pdb
 I:\mystore\mystore.webapi\obj\Debug\net5.0\MyStore.WebApi.genruntimeconfig.cache
 I:\mystore\MyStore.WebApi\bin\Debug\net5.0\CSRedisCore.dll
+<<<<<<< HEAD
 E:\MyStore\MyStore\mystore.webapi\bin\Debug\net5.0\appsettings.Development.json
 E:\MyStore\MyStore\mystore.webapi\bin\Debug\net5.0\appsettings.json
 E:\MyStore\MyStore\mystore.webapi\bin\Debug\net5.0\MyStore.WebApi.StaticWebAssets.xml
@@ -201,3 +202,5 @@ E:\MyStore\MyStore\mystore.webapi\obj\Debug\net5.0\MyStore.WebApi.dll
 E:\MyStore\MyStore\mystore.webapi\obj\Debug\net5.0\ref\MyStore.WebApi.dll
 E:\MyStore\MyStore\mystore.webapi\obj\Debug\net5.0\MyStore.WebApi.pdb
 E:\MyStore\MyStore\mystore.webapi\obj\Debug\net5.0\MyStore.WebApi.genruntimeconfig.cache
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add

@@ -36,6 +36,7 @@ I:\mystore\MyStore.Service\obj\Debug\net5.0\MyStore.Service.csproj.CopyComplete
 I:\mystore\MyStore.Service\obj\Debug\net5.0\MyStore.Service.dll
 I:\mystore\MyStore.Service\obj\Debug\net5.0\ref\MyStore.Service.dll
 I:\mystore\MyStore.Service\obj\Debug\net5.0\MyStore.Service.pdb
+<<<<<<< HEAD
 E:\MyStore\MyStore\MyStore.Service\bin\Debug\net5.0\MyStore.Service.deps.json
 E:\MyStore\MyStore\MyStore.Service\bin\Debug\net5.0\MyStore.Service.dll
 E:\MyStore\MyStore\MyStore.Service\bin\Debug\net5.0\ref\MyStore.Service.dll
@@ -55,3 +56,5 @@ E:\MyStore\MyStore\MyStore.Service\obj\Debug\net5.0\MyStore.Service.csproj.CopyC
 E:\MyStore\MyStore\MyStore.Service\obj\Debug\net5.0\MyStore.Service.dll
 E:\MyStore\MyStore\MyStore.Service\obj\Debug\net5.0\ref\MyStore.Service.dll
 E:\MyStore\MyStore\MyStore.Service\obj\Debug\net5.0\MyStore.Service.pdb
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add

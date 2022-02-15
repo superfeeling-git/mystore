@@ -30,6 +30,7 @@ namespace MyStore.WebApi.Controllers
             return Ok();
         }
 
+<<<<<<< HEAD
 
         /// <summary>
         /// 
@@ -58,5 +59,7 @@ namespace MyStore.WebApi.Controllers
         {
             return new JsonResult(carService.GetCar());
         }
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
     }
 }

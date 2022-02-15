@@ -3,7 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
 using MyStore.Dto;
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
 using MyStore.Entity;
 using MyStore.Repository;
 
@@ -12,6 +15,7 @@ namespace MyStore.Service
     public class CarService : ICarService
     {
         private ICarRepository CarRepository;
+<<<<<<< HEAD
         private IUserService UserService;
         private IGoodsRepository GoodsRepository;
 
@@ -20,10 +24,16 @@ namespace MyStore.Service
             this.CarRepository = CarRepository;
             this.UserService = UserService;
             this.GoodsRepository = GoodsRepository;
+=======
+        public CarService(ICarRepository CarRepository)
+        {
+            this.CarRepository = CarRepository;
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
         }
 
         public void AddCar(Car car)
         {
+<<<<<<< HEAD
             //逻辑判断
             //如果有重复的商品，需要逻辑处理
             var list = GetCar();
@@ -71,6 +81,9 @@ namespace MyStore.Service
             }
 
             return cars;
+=======
+            CarRepository.AddCar($"car:{car.UserId}:{car.GoodsId}", car.BuyCount);
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
         }
     }
 }

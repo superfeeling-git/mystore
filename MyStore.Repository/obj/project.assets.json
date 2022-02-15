@@ -5427,11 +5427,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
       "projectName": "MyStore.Repository",
       "projectPath": "E:\\MyStore\\MyStore\\MyStore.Repository\\MyStore.Repository.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "E:\\MyStore\\MyStore\\MyStore.Repository\\obj\\",
+=======
+      "projectUniqueName": "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj",
+      "projectName": "MyStore.Repository",
+      "projectPath": "I:\\mystore\\MyStore.Repository\\MyStore.Repository.csproj",
+      "packagesPath": "D:\\Administrator\\.nuget\\packages",
+      "outputPath": "I:\\mystore\\MyStore.Repository\\obj\\",
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5452,11 +5460,19 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+<<<<<<< HEAD
             "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj": {
               "projectPath": "E:\\MyStore\\MyStore\\MyStore.Dto\\MyStore.Dto.csproj"
             },
             "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj": {
               "projectPath": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj"
+=======
+            "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj": {
+              "projectPath": "I:\\mystore\\MyStore.Dto\\MyStore.Dto.csproj"
+            },
+            "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj": {
+              "projectPath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj"
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
             }
           }
         }

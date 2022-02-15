@@ -22,6 +22,7 @@ I:\mystore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.csproj.CoreCompileInputs.cac
 I:\mystore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.dll
 I:\mystore\MyStore.Dto\obj\Debug\net5.0\ref\MyStore.Dto.dll
 I:\mystore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.pdb
+<<<<<<< HEAD
 E:\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\MyStore.Dto.deps.json
 E:\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\MyStore.Dto.dll
 E:\MyStore\MyStore\MyStore.Dto\bin\Debug\net5.0\ref\MyStore.Dto.dll
@@ -34,3 +35,5 @@ E:\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.csproj.CoreCompileIn
 E:\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.dll
 E:\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\ref\MyStore.Dto.dll
 E:\MyStore\MyStore\MyStore.Dto\obj\Debug\net5.0\MyStore.Dto.pdb
+=======
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add

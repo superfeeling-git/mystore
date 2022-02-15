@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "YtkyYK5MhqjOfF1nCrV218+rhZoZxVOzlyx5n5d0gsW1YuOsR2LjnbLn0seqca0AMb4z9nRMsBjML64xgouNrQ==",
   "success": true,
   "projectFilePath": "E:\\MyStore\\MyStore\\MyStore.Entity\\MyStore.Entity.csproj",
+=======
+  "dgSpecHash": "fdqqNJVOl2uuwLxqxl+ggcAVBjA0HqgLo3eNu68hfMr+45880ikKmlMQ0HyFUvxaIJzQ3MRhhV/4IThpy5RYog==",
+  "success": true,
+  "projectFilePath": "I:\\mystore\\MyStore.Entity\\MyStore.Entity.csproj",
+>>>>>>> a1ffbe36c9d6c1a7dd7c522efdfbd9265a734add
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
